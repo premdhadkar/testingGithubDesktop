@@ -12,6 +12,7 @@ int main(int argc, char const *argv[])
     printf("%d",a+10);
     return 0;
     v1
+    sfsfsfsfsfs
 }
 
 
