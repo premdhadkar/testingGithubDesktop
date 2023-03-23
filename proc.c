@@ -11,6 +11,7 @@ int main(int argc, char const *argv[])
     scanf("%d",&a);
     printf("%d",a+10);
     return 0;
+    v1
 }
 
 
